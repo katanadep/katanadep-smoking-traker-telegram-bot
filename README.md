@@ -1,3 +1,5 @@
-"# smoking-traker-telegram-bot" 
-"# smoking-traker-telegram-bot" 
-"# katanadep-smoking-traker-telegram-bot" 
+git clone https://github.com/katanadep/katanadep-smoking-traker-telegram-bot
+
+cd katanadep-smoking-traker-telegram-bot
+
+python habits_bot.py
